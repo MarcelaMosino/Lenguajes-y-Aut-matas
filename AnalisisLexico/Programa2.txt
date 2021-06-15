@@ -1,0 +1,12 @@
+   Inicio
+    Reeeal  multiple, res;
+    Entero numero_  = 0023;
+
+    Leer   (num);
+
+    multiple = 56 + ( numero – num);
+    numero = multiple / 0123.99;
+    res = .numero + cuenta;
+
+    Escribir(res);
+Fin
