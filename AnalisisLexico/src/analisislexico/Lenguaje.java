@@ -76,8 +76,8 @@ public class Lenguaje {
         cadena += "\n\nPalabras reservadas: {Programa, Real, " +
                   "\nEntero, Leer, Escribir, Inicio, Fin}";
         cadena += "\n(A-Z)(a-z)*";
-        cadena += "\n\nIdentificadores: de la forma\\n(a-zA-Z)^+((a-zA-Z)+(0-"
-                + "9))*  | (a-zA-Z)^+(_+(a-zA-Z)+(0-9))*((a-zA-Z)+(0-9))^+";
+        cadena += "\n\nIdentificadores: de la forma\n(a-z)^+((a-z)+(0-"
+                + "9))*  | (a-z)^+(_+(a-z)+(0-9))*((a-z)+(0-9))^+";
         //^+ se refiere a cerradura positiva
         cadena += "\n\nNumeros enteros: de la forma"
                 + "\n(1-9)(0-9)* | 0";

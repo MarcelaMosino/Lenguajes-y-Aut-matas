@@ -1,3 +1,4 @@
+Programa EjemploB
    Inicio
     Reeeal  multiple, res;
     Entero numero_  = 0023;

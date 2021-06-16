@@ -1,5 +1,6 @@
+Programa ejemplo_a
    Inicio
-    Real  multiple, res;
+    Real  seguro, ventana;
     Entero numero  = 23;
 
     Leer   (num);

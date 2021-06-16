@@ -12,8 +12,8 @@ public class Analizador {
     //Cabeceras para impresión con formato
     String columnas = "\nLexema\t\tCategoría\tAtributo";
     String tab = "***********************************************";
-    Lista<Token> tC = new Lista(tab+"Tabla de simbolos"+columnas);
-    Lista<Token> tI = new Lista(tab+"Tabla de identificadores"+columnas);
+    Lista<Token> tC = new Lista(tab+"Tabla de tokens"+columnas);
+    Lista<Token> tI = new Lista(tab+"Tabla de simbolos"+columnas);
     Lista<Token> tR = new Lista(tab+"Tabla de palabras reservadas"+columnas);
     Lista<String> tE = new Lista(tab+"Tabla de errores");
   
