@@ -1,0 +1,115 @@
+Análisis Léxico
+
+
+***********************************************Tabla de identificadores
+Lexema		Categoría	Atributo
+multiple		Identificador	750
+
+res		Identificador	750
+
+numero		Identificador	750
+
+num		Identificador	750
+
+multiple		Identificador	750
+
+numero		Identificador	750
+
+num		Identificador	750
+
+numero		Identificador	750
+
+multiple		Identificador	750
+
+res		Identificador	750
+
+numero		Identificador	750
+
+cuenta		Identificador	750
+
+res		Identificador	750
+
+
+
+***********************************************Tabla de palabras reservadas
+Lexema		Categoría	Atributo
+Inicio		Palabra reservada	805
+
+Real		Palabra reservada	801
+
+Entero		Palabra reservada	802
+
+Leer		Palabra reservada	803
+
+Escribir		Palabra reservada	804
+
+Fin		Palabra reservada	806
+
+
+
+***********************************************Tabla de simbolos
+Lexema		Categoría	Atributo
+Inicio		Palabra reservada	805
+
+Real		Palabra reservada	801
+
+multiple		Identificador	750
+
+,		Caracter simple	44
+
+res		Identificador	750
+
+Entero		Palabra reservada	802
+
+numero		Identificador	750
+
+23		Entero	333
+
+Leer		Palabra reservada	803
+
+(		Caracter simple	40
+
+num		Identificador	750
+
+)		Caracter simple	41
+
+multiple		Identificador	750
+
+56		Entero	333
+
++		Caracter simple	43
+
+(		Caracter simple	40
+
+numero		Identificador	750
+
+num		Identificador	750
+
+)		Caracter simple	41
+
+numero		Identificador	750
+
+multiple		Identificador	750
+
+/		Caracter simple	47
+
+123.99		Flotante	334
+
+res		Identificador	750
+
+numero		Identificador	750
+
++		Caracter simple	43
+
+cuenta		Identificador	750
+
+Escribir		Palabra reservada	804
+
+(		Caracter simple	40
+
+res		Identificador	750
+
+)		Caracter simple	41
+
+Fin		Palabra reservada	806
+

@@ -17,6 +17,12 @@ public class Analizador {
     Lista<Token> tR = new Lista(tab+"Tabla de palabras reservadas"+columnas);
     Lista<String> tE = new Lista(tab+"Tabla de errores");
   
+    public Analizador(){//Evitamos quedarnos con registros de 
+        tC.vaciar();    //análisis anteriores, pues se puede
+        tI.vaciar();    //leer más de un archivo por ejecución
+        tR.vaciar();
+        tE.vaciar();
+    }
     
     void analizar() throws IOException{
         int renglon = 1;

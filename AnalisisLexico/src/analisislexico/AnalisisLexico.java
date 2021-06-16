@@ -25,14 +25,15 @@ public class AnalisisLexico {
         AnalisisLexico p = new AnalisisLexico();
         CuadroDialogo c = new CuadroDialogo();
         Lenguaje l = new Lenguaje();
-        Analizador a = new Analizador();
+        Analizador a;
         int eleccion=0;
        
         p.inicio();
         do{
             eleccion = p.menuPrincipal();
             switch(eleccion){
-                case 1: a.analizar();
+                case 1: a = new Analizador(); //Limpiamos registros
+                        a.analizar();
                         System.out.println(a); break;
                 case 2: c.mensaje(l.toString()); break;
                 case 3: c.mensaje("Adios",-1); break;

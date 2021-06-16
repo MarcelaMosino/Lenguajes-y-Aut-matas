@@ -29,6 +29,10 @@ public class Lista<T> {
         return primero==null;
     }
     
+    public void vaciar(){
+        primero=ultimo=null;
+    }
+    
     //Devuelve el contenido de la lista
     @Override
     public String toString(){
