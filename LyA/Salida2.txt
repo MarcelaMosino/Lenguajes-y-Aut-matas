@@ -1,0 +1,145 @@
+Corrida de Analizador Léxico Sintáctico
+
+Lee de archivo: Programa
+Tope pila: 900
+X 900   A: 800
+Matriz devuelve: 0
+Entra a pila 901
+Entra a pila 800
+Tope pila: 800
+X 800   A: 800
+Saca 800 de la pila
+
+Lee de archivo Inicio
+Tope pila: 901
+X 901   A: 805
+Matriz devuelve: 1
+Entra a pila 806
+Entra a pila 902
+Entra a pila 805
+Tope pila: 805
+X 805   A: 805
+Saca 805 de la pila
+
+Lee de archivo Real
+Tope pila: 902
+X 902   A: 801
+Matriz devuelve: 2
+Entra a pila 903
+Entra a pila 904
+Tope pila: 904
+X 904   A: 801
+Matriz devuelve: 5
+Entra a pila 59
+Entra a pila 905
+Entra a pila 910
+Tope pila: 910
+X 910   A: 801
+Matriz devuelve: 20
+Entra a pila 801
+Tope pila: 801
+X 801   A: 801
+Saca 801 de la pila
+
+Lee de archivo multiple
+Tope pila: 905
+X 905   A: 750
+Matriz devuelve: 9
+Entra a pila 906
+Entra a pila 750
+Tope pila: 750
+X 750   A: 750
+Saca 750 de la pila
+
+Lee de archivo ,
+Tope pila: 906
+X 906   A: 44
+Matriz devuelve: 10
+Entra a pila 906
+Entra a pila 750
+Entra a pila 44
+Tope pila: 44
+X 44   A: 44
+Saca 44 de la pila
+
+Lee de archivo res
+Tope pila: 750
+X 750   A: 750
+Saca 750 de la pila
+
+Lee de archivo ;
+Tope pila: 906
+X 906   A: 59
+Matriz devuelve: 11
+Entra a pila 0
+Tope pila: 59
+X 59   A: 59
+Saca 59 de la pila
+
+Lee de archivo numero
+Tope pila: 903
+X 903   A: 750
+Matriz devuelve: 3
+Entra a pila 903
+Entra a pila 904
+Tope pila: 904
+X 904   A: 750
+Matriz devuelve: 6
+Entra a pila 59
+Entra a pila 907
+Entra a pila 61
+Entra a pila 750
+Tope pila: 750
+X 750   A: 750
+Saca 750 de la pila
+
+Lee de archivo =
+Tope pila: 61
+X 61   A: 61
+Saca 61 de la pila
+
+Lee de archivo 23
+Tope pila: 907
+X 907   A: 333
+Matriz devuelve: 12
+Entra a pila 908
+Entra a pila 909
+Tope pila: 909
+X 909   A: 333
+Matriz devuelve: 17
+Entra a pila 333
+Tope pila: 333
+X 333   A: 333
+Saca 333 de la pila
+
+Lee de archivo ;
+Tope pila: 908
+X 908   A: 59
+Matriz devuelve: 14
+Entra a pila 0
+Tope pila: 59
+X 59   A: 59
+Saca 59 de la pila
+
+Lee de archivo Leer
+Tope pila: 903
+X 903   A: 803
+Matriz devuelve: 3
+Entra a pila 903
+Entra a pila 904
+Tope pila: 904
+X 904   A: 803
+Matriz devuelve: 7
+Entra a pila 59
+Entra a pila 41
+Entra a pila 905
+Entra a pila 40
+Entra a pila 803
+Tope pila: 803
+X 803   A: 803
+Saca 803 de la pila
+
+Lee de archivo (
+Tope pila: 40
+X 40   A: 40
+Saca 40 de la pila
